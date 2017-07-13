@@ -4,8 +4,8 @@
 
 class SamuraiChamploo < Formula
   desc "ploo(类alias管理器) BASED ON MacOS."
-  homepage ""
-  head "https://github.com/gengxiankun/samurai-champloo.git"
+  homepage "https://github.com/gengxiankun/samurai-champloo"
+  url "https://github.com/gengxiankun/samurai-champloo/archive/master.tar.gz"
 
   def install
     bin.install "ploo"
