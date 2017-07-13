@@ -1,1 +1,1 @@
-# homebrew-samurai-champloo
+# homebrew-tap
