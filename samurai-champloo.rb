@@ -11,7 +11,6 @@ class SamuraiChamploo < Formula
 
   def install
     bin.install "ploo"
-    bin.install "ploo_complete.sh"
   end
 
 end
