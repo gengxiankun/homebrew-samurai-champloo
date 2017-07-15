@@ -7,7 +7,7 @@ class SamuraiChamploo < Formula
   homepage "https://github.com/gengxiankun/samurai-champloo"
   url "https://github.com/gengxiankun/samurai-champloo/archive/master.tar.gz"
   version "2.2"
-  sha256 "08f4530465fd595eb417df9fb0cbfac59a774eba9daf00f979855c1d6cb3bb64"
+  sha256 "e1320717a805d06aa4d10d155f1f9bd4ad7889e07741ae0f6136b558de80b565"
 
   def install
     bin.install "ploo"
