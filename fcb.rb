@@ -2,7 +2,7 @@ class Fcb < Formula
   desc "freezecombo BASED ON MacOS."
   homepage "https://github.com/gengxiankun/fcb"
   url "https://github.com/gengxiankun/fcb/archive/master.tar.gz"
-  version "v5.1.2"
+  version "v5.1.3"
   sha256 ""
 
   def install
