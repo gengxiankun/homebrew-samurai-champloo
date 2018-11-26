@@ -6,6 +6,6 @@ class SshAccountManagement < Formula
   sha256 ""
 
   def install
-    bin.install "ssh-am"
+    bin.install "SshAccountManagement"
   end
 end
