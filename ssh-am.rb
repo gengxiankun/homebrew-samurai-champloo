@@ -1,4 +1,4 @@
-class SshAm < Formula
+class SshAccountManagement < Formula
   desc "ssh-am BASED ON MacOS."
   homepage "https://github.com/gengxiankun/ssh-am"
   url "https://github.com/gengxiankun/ssh-am/releases/tag/v1.0.0"
