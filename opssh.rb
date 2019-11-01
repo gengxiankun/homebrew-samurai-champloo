@@ -1,4 +1,4 @@
-class SshAm < Formula
+class Opssh < Formula
   desc "OPSSH"
   homepage "https://github.com/gengxiankun/opssh"
   url "https://github.com/gengxiankun/opssh/archive/v0.1.tar.gz"
